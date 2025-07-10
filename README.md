@@ -1,5 +1,5 @@
 # Python-Scrapper
 
-# This python scripts lets your tracks prices on amazon using beautifulsoup. It would track prices and send you email alrets when the desired prices have met,
-You can do a lot with the scrapper and could create a price alert program which could alert you though emails when the prices of a stock goes
+# This python scripts allows your tracks prices on amazon with beautifulsoup. It would monitor prices and email you when the prices you want have reached,
+You can use a lot of the scrapper and could develop a price alert program which could notify you through emails when the prices of a stock goes
 up or down
